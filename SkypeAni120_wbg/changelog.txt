@@ -1,0 +1,104 @@
+﻿Линки | Links:
+____________________________________________
+for White Background / для Белого Фона:
+20px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeAni20_wbg.zip
+40px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeAni40_wbg.zip
+80px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeAni80_wbg.zip
+120px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeAni120_wbg.zip
+240px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeAni240_wbg.zip
+
+for Black Background / для Черного Фона:
+20px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeAni20_bbg.zip
+40px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeAni40_bbg.zip
+80px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeAni80_bbg.zip
+120px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeAni120_bbg.zip
+240px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeAni240_bbg.zip
+
+Static version (for any backgrounds) | Статичная версия (для любого фона):
+20px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeStatic20.zip
+40px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeStatic40.zip
+80px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeStatic80.zip
+120px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeStatic120.zip
+240px: http://files.leraux.ru/Corak/Soft/Network/IM/MirandaNG/Smiles/SkypeStatic240.zip
+___________________________________________________________________________________________________
+
+История Версий | Versions ChangeLog:
+
+v1.05 update:
++ Добавлены новые смайлы (58):
+\ Added new smileys (58):
+(abe) (hanukkah) (kya) (lfcclap) (lfcfacepalm) (lfclaugh) (lfcparty) (lfcworried) (oye) (santa) (xmastree) (bell) (bhangra) (bollylove) (bowled) (chai) (champagne) (chappal) (computerrage) (coutinho10) (dhakkan) (discodancer) (diya) (donkey) (donttalktome) (evilgrin) (golmaal) (headphones) (henderson14) (holidayspirit) (hungover) (kaanpakadna) (klopp) (laddu) (listening) (nahi) (naturescall) (nazar) (ontheloo) (penguin) (polarbear) (poop) (promise) (pullshot) (reindeer) (rickshaw) (shivering) (shopping) (slap) (snowangel) (sturridge15) (suryannamaskar) (tandoorichicken) (tubelight) (turkey) (whistle) (festiveparty) (key)
+
+* Глобально поправлен порядок всех алиасов.
+\ Globally fixed order of all aliases.
+
+* Всем смайлам выставлен правильный стартовый кадр в листе.
+\ All smileys set right starting frame in the list.
+__________________________
+
+
+v1.04a update:
+* Для всех алиасов флагов стран выставлено игнорирование строчных букв. (Благодарность Ja.Ba.)
+\ For all country flags aliases was set ignore case sensitive. (Thanks to Ja.Ba.)
+
+* Все флаги стран замененны на более качественные и детальные аналоги.
+\ All country flags replaced for more quality and hires analogues.
+
+* Добавлены 7 скрытых удаленных смайлов из старой версии (Благодарность Ja.Ba.)
+\ Added 7 hidden deleted smileys from old Skype versions (Thanks to Ja.Ba.):
+(fubar) (hollest) (captain) (bucky) (blackwidow) (nickfury) (shielddeflect)
+
+
+__________________________
+v1.04 update:
++ Добавлены новые смайлы (18):
+\ Added new smileys (18):
+(cheese) (cwl) (finger) (fireworks) (footballfail) (ghost) (ladyvamp) (lips) (muscleman) (neil) (pumpkin) (sarcastic) (skipping) (skull) (vampire) (wtf) (yoga) (zombie)
+
+* Поправлены небольшие ошибки синтаксиса
+\ Fixed some syntax error
+
+* Исправлен порядок смайлов.
+\ Fixed order of smileys.
+___________________________________________________________
+v1.03 update:
++ Добавлены новые смайлы (17):
+\ Added new smileys (17):
+(win10)(access)(bing)(excel)(internetexplorer)(microsoft)(onedrive)(onenote)(outlook)(powerpoint)(publisher)(sharepoint)(skypebiz)(word)(xbox)(ok)(learn) 
+
++ Добавлены все новые алиасы (С Большой Буквы)
+\ Added all new aliases (With Great Letters)
+
++ Добавлены новые ГИГАНТСКИЕ размеры: 120px, 240px (существуют также множество промежуточных)
+\ Added new GIANTIC sizes: 120px, 240px (exists also many between sizes)
+! ВНИМАНИЕ - используя гигантские смайлы (120-240px) требует большую нагрузку на процессор во время предпросмотра-выбора смайлов, а также потребует много ОЗУ (+50mb).
+\ WARNING - using giantic smileys (120-240px) requires much CPU time when selecting smiley from list, and also uses much memory (+50mb)
+
++ Добавлены статичные версии смайлов (оригиналы с сайта)
+\ Added static versions (originals from site)
+
+___________________________________________________________
+v1.02 update:
+
++ Добавлены новые смайлы (14):
+ \ Added new smileys (14):
+(movember)(fistbump)(praying)(poke)(victory)(celebrate)(bomb)(brb)(monkey)(anger)(disgust)(joy)(sadness)(fear)
+http://savepic.org/7462811.png
+
++ Добавлен официальный Русский перевод к подсказкам смайлов и всех флагов стран.
+\ Added official Russian translation to smiley and all country flags discriptions.
+
+* Все смайлы расставлены в правильном порядке в листе - как они расположены в самом Skype.
+\ All smileys placed in right order on list - like it was in Skype.
+
+* Все папки версий заменены на стандартные "SkypeAni" для универсальности
+\ All version folders replaced to "SkypeAni" as default for universality
+
+- Отменены некоторые особо мешающие алиасы и новый сомнительный алиас: (mo), который в разных версиях может означать "Усач" или "Деньги"
+\ Canceled some mostly buggy aliases, and new alias: (mo), that can be as "Money" or "Moustache" depending on version... 
+
+- Отменены версии с острыми краями
+\ Canceled sharp edges versions.
+
+- Отменены версии промежуточных размеров: 30px, 60px.
+\ Canceled middle sized versions: 30px, 60px.
